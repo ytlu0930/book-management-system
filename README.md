@@ -55,7 +55,7 @@
 | **Book_Categories** | 書籍與類別的中介關聯表 |
 | **ReadingProgress** | 儲存用戶閱讀頁數與進度 |
 
-## 📂 檔案結構
+## 檔案結構
 
 ```text
 book_system/
