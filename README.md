@@ -113,5 +113,5 @@ book_system/
 
 ## 作者資訊
 
-* **姓名**：盧宜婷
+* **姓名**：盧宜婷 Yi-Ting Lu
 * GitHub: https://github.com/ytlu0930
