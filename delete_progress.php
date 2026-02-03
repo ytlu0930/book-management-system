@@ -8,7 +8,7 @@ if (isset($_GET['book_id'])) {
     $sql = "DELETE FROM ReadingProgress WHERE book_id = $book_id AND user_id = $user_id";
 
     if ($conn->query($sql) === TRUE) {
-        header("Location: reading_progess.php");
+        header("Location: reading_progress.php");
         exit();
     } else {
         echo "刪除進度失敗：" . $conn->error;
